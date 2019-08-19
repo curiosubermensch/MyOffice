@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="RegistroPagos.master.cs" Inherits="MyOffice.RegistroPagos" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            font-size: xx-large;
+            text-align: center;
+            color: #800000;
+        }
+        .auto-style3 {
+            width: 255px;
+        }
+        .auto-style4 {
+            width: 255px;
+            color: #800000;
+        }
+        .auto-style5 {
+            width: 411px;
+            height: 164px;
+        }
+    </style>
+</head>
+<body bgcolor ="#FFCC99">
+    <form id="form2" runat="server">
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" colspan="2">
+                    <img alt="" class="auto-style5" src="Imagenes/1.png" /></td>
+            </tr>
+            <tr>
+                <td class="auto-style4"><strong><a href="Articulo.aspx">ARTICULOS</a></strong></td>
+                <td rowspan="4">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style4"><strong><a href="Cliente.aspx">CLIENTE</a></strong></td>
+            </tr>
+            <tr>
+                <td class="auto-style4"><strong><a href="Pagos.aspx">PAGOS</a></strong></td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+    </body>
+</html>

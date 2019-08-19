@@ -1,0 +1,132 @@
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\ApplicationInsights.config
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\csc.exe
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\System.Collections.Immutable.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\vbc.exe
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\VBCSCompiler.exe
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\VBCSCompiler.exe.config
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\MyOffice.dll.config
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\MyOffice.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\MyOffice.pdb
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.Web.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.WindowsServer.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.ApplicationInsights.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.Web.xml
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.WindowsServer.xml
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.ApplicationInsights.xml
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\obj\Debug\MyOffice.csprojResolveAssemblyReference.cache
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\obj\Debug\MyOffice.dll
+c:\users\17864240-5\documents\visual studio 2015\Projects\MyOffice\MyOffice\obj\Debug\MyOffice.pdb
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\ApplicationInsights.config
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\csc.exe
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\vbc.exe
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\VBCSCompiler.exe
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\MyOffice.dll.config
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\MyOffice.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\MyOffice.pdb
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.Web.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.Web.xml
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\obj\Debug\MyOffice.csprojResolveAssemblyReference.cache
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\obj\Debug\MyOffice.dll
+C:\Users\18058705-5\Desktop\MyOffice\MyOffice\obj\Debug\MyOffice.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\ApplicationInsights.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\csc.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\vbc.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\MyOffice.dll.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\MyOffice.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\MyOffice.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.Web.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.Web.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\obj\Debug\MyOffice.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\obj\Debug\MyOffice.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MyOffice\MyOffice\obj\Debug\MyOffice.pdb
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\ApplicationInsights.config
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\csc.exe
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\System.Collections.Immutable.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\System.Reflection.Metadata.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\vbc.exe
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\VBCSCompiler.exe
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\roslyn\VBCSCompiler.exe.config
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\MyOffice.dll.config
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\MyOffice.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\MyOffice.pdb
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.DependencyCollector.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.Web.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.WindowsServer.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.ApplicationInsights.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.DependencyCollector.xml
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.Web.xml
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.AI.WindowsServer.xml
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.ApplicationInsights.xml
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\obj\Debug\MyOffice.csprojResolveAssemblyReference.cache
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\obj\Debug\MyOffice.dll
+C:\CACHUREO\tp4 c# proyectos\proyecto myoffice belen\MyOffice\MyOffice\obj\Debug\MyOffice.pdb
